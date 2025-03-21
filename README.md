@@ -136,7 +136,11 @@ Here’s the section with proper formatting:
 
 
 ### SIMULATION RESULTS 
-
+![](IIOT_EX01-1.png)
+![](IIOT_EX01-2.png)
+![](IIOT_EX01-3.png)
+![](IIOT_EX01-4.png)
+![](IIOT_EX01-5.png)
 
 
 ### Results:
